@@ -2,7 +2,7 @@
 
 Formulário de avaliação de atendimento construído em **PHP puro**, com navegação por etapas (uma pergunta por página) usando sessão (`$_SESSION`). Projeto criado como estudo para praticar lógica de formulários, sessões e manipulação de arquivos em PHP.
 
-![Preview do formulário](assets/preview.jpg)
+![Preview do formulário](assets/preview.JPG)
 
 ## ✨ Funcionalidades
 
